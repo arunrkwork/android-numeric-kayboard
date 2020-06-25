@@ -1,0 +1,3 @@
+include ':numerickeyboard'
+include ':app'
+rootProject.name = "AndroidNumericKeyBoard"
